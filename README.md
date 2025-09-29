@@ -16,4 +16,11 @@
 | **Task 3 : Saeed Mohammadi Gahrooei** |
 | **Task 4 : Fatemeh Hemmati** |
 
+| Assignment 2 |
+|--------------|
+| **main : Mahdi Mohammadian** |
+| **IOperation and StorageOperation class : Romina Hajizadeh** |
+| **Industrial Process class : Saeed Mohammadi Gahrooei** |
+| **AGV and Position class : Fatemeh Hemmati** |
+
 
